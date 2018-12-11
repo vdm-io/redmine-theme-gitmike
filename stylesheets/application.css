@@ -4,7 +4,7 @@
  * This is github-like theme for Redmine.
  * It is based on A1 theme version 1.0.3 by Kirill Bezrukov www.redminecrm.com.
  * @version 1.1.1
- * @see https://github.com/makotokw/redmine-theme-gitmike
+ * @see https://github.com/vdm-io/redmine-theme-gitmike
  * @license GPL3 License
  */
 body { color: #333; background-color: white; }
@@ -85,7 +85,6 @@ div.contact.details, div.deal.details { padding: 15px !important; margin: -11px 
 #sidebar h3 { color: #222; }
 
 #footer { background-color: #F8F8F8; border: 0; border-top: 1px solid #E0E0E0; color: #636363; margin-top: 45px; padding: 15px; }
-#footer .bgl .bgr:after { content: " and gitmike theme"; }
 
 h2, h3, h4 { border-bottom: 0; }
 

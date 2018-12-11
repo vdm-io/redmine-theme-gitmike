@@ -2,7 +2,7 @@ Redmine gitmike theme
 ==============
 
 This is github-like theme for Redmine.
-It is based on A1 theme version 1.0.3 by Kirill Bezrukov www.redminecrm.com.
+It is based on A1 theme version 1.0.3 by Kirill Bezrukov www.redminecrm.com. (adapted for VDM)
 
 ![gitmike screnshot](./screenshot.png)
 
@@ -10,14 +10,14 @@ It is based on A1 theme version 1.0.3 by Kirill Bezrukov www.redminecrm.com.
 
 ### Install theme
 
-1. Download from https://github.com/makotokw/redmine-theme-gitmike/tags
-1. Move to `redmine/public/theme/gitmike`
+1. Download from https://github.com/vdm-io/redmine-theme-gitmike/tags
+1. Move to `redmine/public/theme/gitvdm`
 
 Or by using git:
 
 ```
 cd redmine/public/theme
-git clone git://github.com/makotokw/redmine-theme-gitmike.git gitmike
+git clone git://github.com/vdm-io/redmine-theme-gitmike.git gitvdm
 ```
 
 ### Change theme
@@ -31,7 +31,7 @@ git clone git://github.com/makotokw/redmine-theme-gitmike.git gitmike
 
 ```
 cd redmine/public/theme
-git clone git://github.com/makotokw/redmine-theme-gitmike.git gitmike
+git clone git://github.com/vdm-io/redmine-theme-gitmike.git gitmike
 cd gitmike
 gem install compass
 npm install -g gulp

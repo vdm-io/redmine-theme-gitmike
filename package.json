@@ -1,17 +1,17 @@
 {
-  "name": "gitmike",
+  "name": "gitvdm",
   "version": "1.1.1",
-  "description": "Redmine gitmike theme",
+  "description": "Redmine VDM theme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/makotokw/redmine-theme-gitmike.git"
+    "url": "git://github.com/vdm-io/redmine-theme-gitmike.git"
   },
   "author": "Makoto Kawasaki",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/makotokw/redmine-theme-gitmike/issues"
+    "url": "https://github.com/vdm-io/redmine-theme-gitmike/issues"
   },
-  "homepage": "https://github.com/makotokw/redmine-theme-gitmike",
+  "homepage": "https://github.com/vdm-io/redmine-theme-gitmike",
   "devDependencies": {
     "browser-sync": "^2.8.0",
     "github-markdown-css": "^2.3.0",
